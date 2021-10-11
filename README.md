@@ -1,5 +1,5 @@
 ### Hello then 👋
-🔭 I’m currently working on **quantum optics** and **QML**
+🔭 I’m currently working on **Quantum Optics** and **QML**
 
 🌱 Learning **QFT** ongoing
 
