@@ -1,7 +1,7 @@
 ### Hello then 👋
-🔭 I’m currently working on **Quantum Optics** and **Quantum Computation**
+🔭 I’m currently working on **Quantum Optics** (Quantum nonlinear optics)
 
-🌱 Learning **QFT** ongoing
+🌱 Learning **Quantum Field Theory** ongoing
 
 📫 yesunhuang@mail.ustc.edu.cn and [PGP key](https://github.com/yesunhuang/yesunhuang/blob/main/yesunhuang.asc)
 
